@@ -5,9 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.springboot</groupId>
-	<artifactId>registration-service</artifactId>
+	<artifactId>registration-service-v1</artifactId>
 	<version>release-0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>springboot-redis-database</name>
 	<description>Demo project for Spring Boot and Cassandra</description>
