@@ -1,0 +1,6 @@
+com\springboot\model\Student.class
+com\springboot\config\RedisConfig.class
+com\springboot\repository\StudentRepository.class
+com\springboot\repository\StudentService.class
+com\springboot\SpringbootRedisDatabaseApplication.class
+com\springboot\controller\RedisController.class
